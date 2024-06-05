@@ -4,9 +4,9 @@ In the project directory, you can run:
 
 ### `npm install`
 
-This will install all the required packages before we can start the project.
-Run this in case all packages aren't installed:
-npm install @mui/material @emotion/react @emotion/styled @mui/icons-material react-router-dom 
+This will install all the required packages before we can start the project.\
+Run this in case all packages aren't installed:\
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material react-router-dom \
 also run audit fix and force audit fix to get rid of any lingering errors.
 
 ### `npm start`
