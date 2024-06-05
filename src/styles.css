@@ -1,0 +1,22 @@
+/* src/styles.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('C:\Users\dogbo\restaurant-finder\BG4.png'); /* Specify the path to your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    height: 100vh; /* Ensure full viewport height */
+    overflow: auto; /* Enable scrolling if content exceeds viewport height */
+  }
+  
+  .page-container {
+    background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent white background for better readability */
+  }
+  
+  .restaurant-name {
+    font-weight: bold;
+    /* Add any other stylistic properties you want */
+  }
